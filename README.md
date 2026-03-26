@@ -1,6 +1,9 @@
 # symptom-to-care guide 
 
+LIVE App: https://jpurevtugs-symptom-guide-app-clean-app-pucwrf.streamlit.app/
+
 helps users decide between urgent care vs ER vs monitoring at home
+
 app does NOT provide medical diagnosis — only general guidance
 
 features include: 
