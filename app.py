@@ -1,7 +1,7 @@
 import streamlit as st
 
 # title + captions 
-st.title("symptom-to-care guide ✱")
+st.title("symptom-to-care guide")
 st.caption("this app does NOT provide medical diagnosis - it only gives general guidance")
 st.write("urgent care vs ER vs wait it out")
 
